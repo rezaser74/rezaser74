@@ -1,5 +1,5 @@
 My name is Reza serpooshan
--  Front-End Developer
+-  Front-End Developer (Reactjs & Vuejs)
 -  I’m currently work in Vistaapp.ir
 -  I’m looking to collaborate on ...
 - 📫 How to reach me rezaser3774@gmail.com 
