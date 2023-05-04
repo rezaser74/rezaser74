@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Spexa<br>👯 I’m looking to collaborate on Front end Projects<br>🌱 I’m currently learning Reactjs<br>
+🔭 I’m currently working on Spexa<br>🌱 I’m currently learning Reactjs<br>
 
 
 ## 🌐 Socials:
